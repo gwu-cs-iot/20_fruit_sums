@@ -2,7 +2,7 @@
 
 ## Project Structure
 - src - contains [the code](src/fruit_detection_with_motion.py) that runs on the Raspberry Pi
-- assets - contains the [fritzing diagrams](assets/fruit_sums_diagram.fzz) for this project
+- assets - contains the [fritzing diagrams](assets/fruit_sums_diagram.png) for this project
 - demo - contains the [project powerpoint](demo/fruit_sums_ppt.pdf) and [demo video](demo/demo_video.MOV)
 
 ## Download and Use Instructions
