@@ -1,8 +1,8 @@
 # 20_fruit_sums
 
 ## Project Structure
-- src: contains the code that runs on the Raspberry Pi
-- assets: contains the fritzing diagrams for this project
+- src - contains the code that runs on the Raspberry Pi
+- assets - contains the fritzing diagrams for this project
 
 ## Download and Use Instructions
 - Main libraries, packages, and APIs used for this project:
