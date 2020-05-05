@@ -3,6 +3,7 @@
 ## Project Structure
 - src - contains the code that runs on the Raspberry Pi
 - assets - contains the fritzing diagrams for this project
+- demo - contains the [project powerpoint](demo/fruit_sums_ppt.pdf) and [demo video](demo/demo_video.MOV)
 
 ## Download and Use Instructions
 - Main libraries, packages, and APIs used for this project:
