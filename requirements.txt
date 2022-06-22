@@ -8,7 +8,7 @@ google-cloud-vision==1.0.0
 googleapis-common-protos==1.51.0
 grpcio==1.28.1
 idna==2.9
-numpy==1.18.3
+numpy==1.22.0
 opencv-contrib-python==3.4.3.18
 opencv-python==4.1.1.26
 picamera==1.13
